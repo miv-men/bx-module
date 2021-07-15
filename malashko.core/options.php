@@ -56,6 +56,7 @@ $aTabs = array(
         "DIV" 	  => "edit2",
         "TAB" 	  => Loc::getMessage("MALASHKO_OPTIONS_TAB_INDEX_DESIGNER"),
         "TITLE"   => Loc::getMessage("MALASHKO_OPTIONS_TITLE_INDEX_DESIGNER"),
+        "OPTIONS" => [],
         "CONTENT" => '
             <div class="index-constructor">
                 <p>Конструктор главной</p>
